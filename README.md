@@ -29,4 +29,4 @@ Here are some examples of the NN predicting on digits from the MNIST dataset:
 And here are some examples of the NN predicting on newly written digits, ignore the "Expected Value" here: 
 ![predictions on own written digits](images/own.jpg)
 
-
+The NN is trained successfully and is able to classify user written digits.
